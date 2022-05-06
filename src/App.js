@@ -1,57 +1,26 @@
-import React, {Component} from 'react'
-import logo from './logo.svg';
+import { Route, Routes} from 'react-router-dom';
 import './App.css';
+//import Navigation from './routes/navigation/navigation.component';
+//import Home from './routes/home/home.component';
+//import Authentication from './routes/authentication/authentication.component';
+//import Shop from './routes/shop/shop.component';
+//import Checkout from './routes/checkout/checkout.component';
 
-
-import {
-	BrowserRouter as Router,
-	Routes,
-	Route,
-	Link
-} from 'react-router-dom';
-
-
-const HomePage =() =>{
-  return(
-  <div>
-    <h1>HOME PAGE</h1>
-  </div>
-  )
-  };
-
-  const TopicsPage =() =>{
-    return(
-    <div>
-    <h1>TOPICS PAGE</h1>
-    </div>
-    )
-    };
-
-    const TopicDetailsPage =() =>{
-      return(
-      <div>
-        <h1>TOPIC DETAILS PAGE</h1>
-      </div>
-      )
-      };
-
-
-
-class  App extends Component {
-render() {
- return (
-<Router>
-		<div>
-		<Routes>
-				<Route exact path='/' element={< HomePage />}></Route>
-				<Route exact path='/topics' element={< TopicsPage />}></Route>
-				<Route exact path='/details' element={< TopicDetailsPage />}></Route>
-		</Routes>
-		</div>
-	</Router>
-);
-}
-}
+const App =()=> {
+    
+  return (
+  <Routes>
+    <Route path='/' >
+      
+    </Route>
+  </Routes>
+  );
+  
+};
 
 export default App;
 
+      //<Route index  element={<Home/>} />
+      //<Route path = 'shop/*' element={<Shop/>} />
+      //<Route path = 'auth' element={<Authentication/>} />
+      //<Route path = 'checkout' element={<Checkout/>} />
