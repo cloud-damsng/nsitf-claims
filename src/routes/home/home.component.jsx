@@ -7,29 +7,59 @@ const Home =()=> {
   const categories =[
     {
       "id": 1,
-      "title": "hats",
+      "title": "Lagos Region",
       "imageUrl": "https://i.ibb.co/cvpntL1/hats.png"
     },
     {
       "id": 2,
-      "title": "jackets",
+      "title": "Ibadan Region",
       "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
     },
     {
       "id": 3,
-      "title": "sneakers",
+      "title": "Abuja Region",
       "imageUrl": "https://i.ibb.co/0jqHpnp/sneakers.png"
     },
     {
       "id": 4,
-      "title": "womens",
-      "imageUrl": "https://i.ibb.co/GCCdy8t/womens.png"
+      "title": "Kaduna Region",
+      "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
     },
     {
       "id": 5,
-      "title": "mens",
+      "title": "Kano Region",
+      "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
+    },
+    {
+      "id": 6,
+      "title": "Jos Region",
+      "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
+    },
+    {
+      "id": 7,
+      "title": "Port Harcourt  Region",
+      "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
+    },
+    {
+      "id": 8,
+      "title": "Asaba Region",
+      "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
+    },
+    {
+      "id": 9,
+      "title": "Maiduguri Region",
+      "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
+    },
+    {
+      "id": 10,
+      "title": "Bauch Region",
+      "imageUrl": "https://i.ibb.co/GCCdy8t/womens.png"
+    },
+    {
+      "id": 11,
+      "title": "Enugu Region",
       "imageUrl": "https://i.ibb.co/R70vBrQ/men.png"
-    }
+    },
   ];
     
   return (
