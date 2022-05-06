@@ -31,3 +31,10 @@ const Home =()=> {
       "imageUrl": "https://i.ibb.co/R70vBrQ/men.png"
     }
   ];
+    
+  return (
+    <Directory categories={categories}/>
+  );
+}
+
+export default Home;
