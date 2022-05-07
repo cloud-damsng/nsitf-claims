@@ -53,7 +53,7 @@ const Home =()=> {
     {
       "id": 10,
       "title": "Bauch Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://ibb.co/ss4qTMh/nsitf-logo.png"
     },
     {
       "id": 11,
