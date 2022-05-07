@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const BackgroundImage = styled.div`
-  width: 90%;
-  height: 90%;
+  width: 50%;
+  height: 50%;
   background-size: cover;
   background-position: center;
   background-image: ${({ imageUrl }) => `url(${imageUrl})`};
