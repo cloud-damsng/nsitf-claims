@@ -8,52 +8,52 @@ const Home =()=> {
     {
       "id": 1,
       "title": "Lagos Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-jpg.jpg"
     },
     {
       "id": 2,
       "title": "Ibadan Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-logo.png"
     },
     {
       "id": 3,
       "title": "Abuja Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-jpg.jpg"
     },
     {
       "id": 4,
       "title": "Kaduna Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-logo.png"
     },
     {
       "id": 5,
       "title": "Kano Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-logo.png"
     },
     {
       "id": 6,
       "title": "Jos Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-logo.png"
     },
     {
       "id": 7,
       "title": "Port Harcourt  Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-logo.png"
     },
     {
       "id": 8,
       "title": "Asaba Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-logo.png"
     },
     {
       "id": 9,
       "title": "Maiduguri Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-logo.png"
     },
     {
       "id": 10,
       "title": "Bauch Region",
-      "imageUrl": "https://i.ibb.co/ss4qTMh/nsitf-logo.png"
+      "imageUrl": "https://i.ibb.co/L9DBVfY/nsitf.jpg"
     },
     {
       "id": 11,
