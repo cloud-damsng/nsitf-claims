@@ -58,7 +58,7 @@ const Home =()=> {
     {
       "id": 11,
       "title": "Enugu Region",
-      "imageUrl": "https://ibb.co/ss4qTMh"
+      "imageUrl": "https://i.ibb.co/R70vBrQ/men.png"
     },
   ];
     
