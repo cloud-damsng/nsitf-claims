@@ -5,7 +5,9 @@ import Home from './routes/home/home.component';
 import Authentication from './routes/authentication/authentication.component';
 //import Shop from './routes/shop/shop.component';
 //import Checkout from './routes/checkout/checkout.component';
+import AddEmployer from './routes/employer/employer.component';
 
+import Signup from './routes/signup/signup.component';
 const App =()=> {
     
   return (
@@ -13,6 +15,8 @@ const App =()=> {
    
   <Route index element={<Authentication/>}/>
   <Route path ='home' index  element={<Home/>}/>
+  <Route path ='signup' index  element={<Signup/>}/>
+  <Route path ='addemployer' index  element={<AddEmployer/>}/>
          
   </Routes>
   );
